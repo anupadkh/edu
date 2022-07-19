@@ -1,0 +1,76 @@
+\section{Introduction to Compiler Design}
+
+This tutorial section is focussed to know about the basics of Compiler blocks.
+
+
+\begin{question}
+	 Compilers are broken into several chunks called passes that communicate with one another via temporary files. Justify the construction of compiler as a complex program.
+\end{question}
+
+\begin{question}
+	Define Lexer. Describe the role of lexical analysis in compiler construction.
+\end{question}
+
+\begin{question}
+	Define parsing. Compare the parsing process of English sentence: `Ram sees Laxman flee` with the parsing process of Expression (A * B - C * D).
+\end{question}
+
+\begin{question}
+	What is Code Generation in compilation process? Discuss on the basic principles.
+\end{question}
+
+\begin{question}
+	Write short notes on:
+  \begin{enumerate}
+    \item Context Free Grammar
+    \item Backus-Naur Form
+    \item Syntax Diagram
+  \end{enumerate}
+\end{question}
+
+\begin{question}
+Write a grammar that recognizes a C variable declaration made up of the following keywords:
+\begin{verbatim}
+ int  char long float double signed unsigned short const volatile
+\end{verbatim}
+and a variable name.
+\end{question}
+
+\begin{question}
+
+ Write a grammar that recognizes a C variable declaration made up only of legal
+combinations of the following keywords:
+\begin{verbatim}
+    int char long float double signed unsigned short const volatile
+\end{verbatim}
+and a variable name. The grammar should be able to accept all such legal declarations. For example, all the following should be accepted:
+\begin{verbatim}
+  volatile unsigned long int x;
+  unsigned long volatile int x;
+  long unsigned volatile int x;
+  long volatile unsigned int x;
+\end{verbatim}
+
+but something like this should not be accepted:
+\begin{verbatim}
+  unsigned signed short long x;
+\end{verbatim}
+\end{question}
+
+\begin{question}
+
+Write a grammar (and a recursive-descent compiler for that grammar) that translates an English description of a C variable into a C-style variable declaration. For example, the input:
+\begin{verbatim}
+  x is a pointer to an array of 10 pointers to functions that return int.
+  y is an array of 10 floats.
+  z is a pointer to a struct of type a struct.
+\end{verbatim}
+should be translated to:
+\begin{verbatim}
+  int (* (*x) [10]) ();
+  float y[10];
+  struct a_struct *z;
+\end{verbatim}
+\end{question}
+
+% \includepdf[pages={1}]{assignments/DataTypesSummary.pdf}
