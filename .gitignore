@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Angular App
+/tutor/node_modules
+.DS_Store

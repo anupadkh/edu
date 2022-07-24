@@ -1,0 +1,5 @@
+print 5;
+
+print 20;
+x = 10;
+exit;
