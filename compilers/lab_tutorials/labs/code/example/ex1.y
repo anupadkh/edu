@@ -29,6 +29,6 @@ fact : "(" expr ")"
     | '9' {printf("9");}
 
 %%
-/* int main(){
+int main(){
   yyparse();
-} */
+}

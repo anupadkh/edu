@@ -421,9 +421,9 @@ union yyalloc
 #endif /* !YYCOPY_NEEDED */
 
 /* YYFINAL -- State number of the termination state.  */
-#define YYFINAL  6
+#define YYFINAL  7
 /* YYLAST -- Last index in YYTABLE.  */
-#define YYLAST   9
+#define YYLAST   8
 
 /* YYNTOKENS -- Number of terminals.  */
 #define YYNTOKENS  6
@@ -518,7 +518,7 @@ static const yytype_int16 yytoknum[] =
 };
 #endif
 
-#define YYPACT_NINF (-5)
+#define YYPACT_NINF (-4)
 
 #define yypact_value_is_default(Yyn) \
   ((Yyn) == YYPACT_NINF)
@@ -532,8 +532,8 @@ static const yytype_int16 yytoknum[] =
      STATE-NUM.  */
 static const yytype_int8 yypact[] =
 {
-       0,    -5,    -5,     1,     0,    -3,    -5,    -5,    -5,     2,
-       3
+      -3,    -4,    -2,     2,    -3,     1,     3,    -4,    -4,    -4,
+      -4
 };
 
   /* YYDEFACT[STATE-NUM] -- Default reduction number in state STATE-NUM.
@@ -541,14 +541,14 @@ static const yytype_int8 yypact[] =
      means the default is an error.  */
 static const yytype_int8 yydefact[] =
 {
-       2,     5,     6,     0,     2,     0,     1,     3,     4,     0,
+       2,     5,     6,     0,     2,     0,     0,     1,     3,     4,
        7
 };
 
   /* YYPGOTO[NTERM-NUM].  */
 static const yytype_int8 yypgoto[] =
 {
-      -5,     5,    -5,    -4
+      -4,     4,    -4,    -1
 };
 
   /* YYDEFGOTO[NTERM-NUM].  */
@@ -562,19 +562,19 @@ static const yytype_int8 yydefgoto[] =
      number is the opposite.  If YYTABLE_NINF, syntax error.  */
 static const yytype_int8 yytable[] =
 {
-       8,     6,     9,     1,     2,    10,     2,     0,     9,     7
+       1,     2,     7,     6,     9,    10,     0,     2,     8
 };
 
 static const yytype_int8 yycheck[] =
 {
-       3,     0,     5,     3,     4,     9,     4,    -1,     5,     4
+       3,     4,     0,     5,     3,     6,    -1,     4,     4
 };
 
   /* YYSTOS[STATE-NUM] -- The (internal number of the) accessing
      symbol of state STATE-NUM.  */
 static const yytype_int8 yystos[] =
 {
-       0,     3,     4,     7,     8,     9,     0,     7,     3,     5,
+       0,     3,     4,     7,     8,     9,     5,     0,     7,     3,
        9
 };
 
@@ -1066,9 +1066,9 @@ yyreduce:
 #line 1067 "parser.tab.c"
     break;
 
-  case 7: /* exp: exp PLUS exp  */
+  case 7: /* exp: NUMBER PLUS exp  */
 #line 33 "parser.y"
-               {(yyval.num) = (yyvsp[-2].num) + (yyvsp[0].num) ;}
+                  {(yyval.num) = (yyvsp[-2].num) + (yyvsp[0].num) ;}
 #line 1073 "parser.tab.c"
     break;
 

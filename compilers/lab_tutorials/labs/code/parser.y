@@ -30,7 +30,7 @@ line:
 
 exp:
   NUMBER {$$=$1;}
-| exp PLUS exp {$$ = $1 + $3 ;}
+| NUMBER PLUS exp {$$ = $1 + $3 ;}
 ;
 
 %%
