@@ -1,10 +1,12 @@
 GIT Links
 
- https://gitlab.com/anupadkh/nirak.git
-https://gitlab.com/anupadkh/gkcc.git 
-https://gitlab.com/anupadkh/cpn-uml.git
+- [Nirak Website](https://gitlab.com/anupadkh/nirak.git)
 
-https://gitlab.com/anupadkh/mystique.git
+- [GKCC](https://gitlab.com/anupadkh/gkcc.git )
+
+- [CPN-UML](https://gitlab.com/anupadkh/cpn-uml.git)
+
+- [Mystique](https://gitlab.com/anupadkh/mystique.git)
 
 
 Inside Tutorials
@@ -25,8 +27,9 @@ https://github.com/MyEtherWallet/MyEtherWallet.git
 
 Latex Docs
 
-https://gitlab.com/resort-astam/tea-proposal.git 
-https://github.com/KWARC/LaTeX-proposal.git 
-https://github.com/aignas/LaTeX-project.git 
-https://gitlab.com/simleAll/docs.git 
-https://gitlab.com/anupadkh/book.git
+- [Tea proposal](https://gitlab.com/resort-astam/tea-proposal.git) 
+- https://github.com/KWARC/LaTeX-proposal.git 
+- https://github.com/aignas/LaTeX-project.git 
+- [Simle Documents](https://gitlab.com/simleAll/docs.git )
+
+- [Books](https://gitlab.com/anupadkh/book.git)
