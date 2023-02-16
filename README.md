@@ -1,6 +1,6 @@
 GIT Links
 
- https://gitlab.com/anupadkh/nirak.git
+https://gitlab.com/anupadkh/nirak.git
 https://gitlab.com/anupadkh/gkcc.git 
 https://gitlab.com/anupadkh/cpn-uml.git
 
