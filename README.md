@@ -33,3 +33,4 @@ Latex Docs
 - [Simle Documents](https://gitlab.com/simleAll/docs.git )
 
 - [Books](https://gitlab.com/anupadkh/book.git)
+- [Research Proposal](https://gitlab.com/anupadkh/gu-research-proposal.git)
