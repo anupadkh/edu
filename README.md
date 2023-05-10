@@ -1,4 +1,4 @@
-GIT Links
+# GIT Links
 
 - [Nirak Website](https://gitlab.com/anupadkh/nirak.git)
 
@@ -9,7 +9,7 @@ GIT Links
 - [Mystique](https://gitlab.com/anupadkh/mystique.git)
 
 
-Inside Tutorials
+## Inside Tutorials
 
 https://github.com/gopinav/Angular-Authentication-Tutorial
  https://github.com/gopinav/Angular-Forms-Tutorial.git
@@ -25,7 +25,7 @@ https://github.com/Simle-Infotech/jalpamf.git
 
 https://github.com/MyEtherWallet/MyEtherWallet.git
 
-Latex Docs
+## Latex Docs
 
 - [Tea proposal](https://gitlab.com/resort-astam/tea-proposal.git) 
 - https://github.com/KWARC/LaTeX-proposal.git 
@@ -34,3 +34,10 @@ Latex Docs
 
 - [Books](https://gitlab.com/anupadkh/book.git)
 - [Research Proposal](https://gitlab.com/anupadkh/gu-research-proposal.git)
+- [Lecture Notes](https://gitlab.com/gandakibit/lecture-notes.git)
+
+
+## Applications
+
+- [Career Counsel implementation in Django](https://gitlab.com/gandakibit/career-server.git)
+- [Song Mookwon](https://gitlab.com/website145/songmookwon.git)
