@@ -35,6 +35,7 @@ https://github.com/MyEtherWallet/MyEtherWallet.git
 - [Books](https://gitlab.com/anupadkh/book.git)
 - [Research Proposal](https://gitlab.com/anupadkh/gu-research-proposal.git)
 - [Lecture Notes](https://gitlab.com/gandakibit/lecture-notes.git)
+- [GAMIS Proposal](https://gitlab.com/documentations4/gamis)
 
 
 ## Applications
