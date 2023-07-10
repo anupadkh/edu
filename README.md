@@ -42,3 +42,7 @@ https://github.com/MyEtherWallet/MyEtherWallet.git
 
 - [Career Counsel implementation in Django](https://gitlab.com/gandakibit/career-server.git)
 - [Song Mookwon](https://gitlab.com/website145/songmookwon.git)
+
+## Lectures
+- [CSS Grid](https://gandakiuniversityedunp-my.sharepoint.com/:b:/g/personal/anup_adhikari_gandakiuniversity_edu_np/EaewjDXKr4VDsqBLnIyT9zUB9dvyIJTdJcVjheuPTvxRcg?e=tSGdgI)
+- [DCCN](https://gandakiuniversityedunp-my.sharepoint.com/:b:/g/personal/anup_adhikari_gandakiuniversity_edu_np/EcmgOHQlVU9PlJhBncdPn9wBwqJdp3b8v_f14H2Fo1bkZA?e=caKovc)
