@@ -31,6 +31,7 @@ https://github.com/MyEtherWallet/MyEtherWallet.git
 - https://github.com/KWARC/LaTeX-proposal.git 
 - https://github.com/aignas/LaTeX-project.git 
 - [Simle Documents](https://gitlab.com/simleAll/docs.git )
+- [Curriculum Vitae](https://github.com/anupadkh/Curriculum-Vitae.git)
 
 - [Books](https://gitlab.com/anupadkh/book.git)
 - [Research Proposal](https://gitlab.com/anupadkh/gu-research-proposal.git)
