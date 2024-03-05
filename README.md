@@ -49,3 +49,5 @@ https://github.com/MyEtherWallet/MyEtherWallet.git
 - [DCCN](https://gandakiuniversityedunp-my.sharepoint.com/:b:/g/personal/anup_adhikari_gandakiuniversity_edu_np/EcmgOHQlVU9PlJhBncdPn9wBwqJdp3b8v_f14H2Fo1bkZA?e=caKovc)
 
 - [Education Template](https://github.com/wowchemy/starter-hugo-online-course)
+
+## [PhD Plans](/student/phd_plan.md)
