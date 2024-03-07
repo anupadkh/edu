@@ -50,4 +50,6 @@ https://github.com/MyEtherWallet/MyEtherWallet.git
 
 - [Education Template](https://github.com/wowchemy/starter-hugo-online-course)
 
-## [PhD Plans](/student/phd_plan.md)
+## Self Development
+
+- [PhD Plan](student/phd_plan.md)
