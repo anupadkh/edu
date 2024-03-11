@@ -53,3 +53,8 @@ https://github.com/MyEtherWallet/MyEtherWallet.git
 ## Self Development
 
 - [PhD Plan](student/phd_plan.md)
+
+## Credentials
+
+X
+Safe Pwd: `fcrdekef8ktk`
